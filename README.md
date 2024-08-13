@@ -1,4 +1,4 @@
 ## Introduction
 Tic Tac Toe game made in React and styled in Tailwind.
 
-## Preview
+[Visit](https://projects.oksent.dev/apps/tictactoe)
